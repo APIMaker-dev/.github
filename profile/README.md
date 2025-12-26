@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://apimaker.dev">
-    <img width="100%" src="https://apimaker.dev/external/npm/API_Maker_NPM_Poster.svg" alt="Poster Image"/>
+    <img width="100%" src="https://apimaker.dev/external/npm/API_Maker_NPM_Poster_With_Extensions.svg" alt="Poster Image"/>
   </a>
 </div>
 
