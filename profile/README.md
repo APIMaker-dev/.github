@@ -15,16 +15,6 @@
 
 <br/>
 
-## 🙏 Friendly Request
-💞 Dear Friend,<br/>
-👉 Please help us to spread it, around the world 🌎. <br/>
-👉 Small [Tweet](https://twitter.com/api_maker) & [Post](https://www.linkedin.com/company/api-maker) will encourage us to keep working hard and keep improving API Maker. <br/>
-👉 We kindly request this as a token of appreciation, and it also helps us understand that our API Maker is being utilized.<br/>
-👉 Thank you for being part of this amazing community & journey. <br/>
-😎 You are awesome, Thank you so much in advance...
-
-<br/>
-
 ## ✨ Features
 * [Auto Generated APIs](https://apimaker.dev/features/powerful-auto-generated-apis-based-on-db-schema/)
 * [8 Database Types Support](https://apimaker.dev/features/8-database-support/)
